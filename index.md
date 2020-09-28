@@ -1,4 +1,4 @@
-In meiner Rolle als Nachbarschaftsvertreter möchte ich - [Martin Gröger](mailto:mgroeger1@web.de) [mailto](mailto:email@example.com) - hiermit alle Informationen zur Bebauung des Nachbargeländes
+In meiner Rolle als Nachbarschaftsvertreter möchte ich - Martin Gröger <mgroeger1@web.de>  - hiermit alle Informationen zur Bebauung des Nachbargeländes
 transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. 
 
 
@@ -14,8 +14,7 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen.
   - Preisgerichts-Sitzung am 20.04.2021 ganztags
   
 - 23.09.2020: Preisgerichtsunterlagen werden verteilt
-  - [Zusammensetzung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)
-  Hier ist daruf zu achten, wer Stimmrecht hat.
+  - [Zusammensetzung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)  Hier ist daruf zu achten, wer Stimmrecht hat.
   - Auslobungstext (s.u.)
   - Protokoll des Nachbarschaftsworkshop (s.u.) 
   
