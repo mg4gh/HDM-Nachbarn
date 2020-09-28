@@ -1,4 +1,4 @@
-In meiner Rolle als Nachbarschaftsvertreter möchte ich - [Martin Gröger](mailto:mgroeger1@web.de) - hiermit alle Informationen zur Bebauung des Nachbargeländes
+In meiner Rolle als Nachbarschaftsvertreter möchte ich - [Martin Gröger](mailto:mgroeger1@web.de) - hiermit meine Informationen zur Bebauung des Nachbargeländes
 transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. 
 
 
