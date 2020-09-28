@@ -13,22 +13,18 @@ der Stadtwerke Heidelberg.
   - Preisrichter-Vorbesprechung am 19.10.2020 von 10 Uhr bis ca. 12 Uhr
   - Kolloquium am 07.12.2020 von 14 Uhr bis ca. 17 Uhr
   - Preisgerichts-Sitzung am 20.04.2021 ganztags
-#### 
 - 23.09.2020: Preisgerichtsunterlagen werden verteilt
   - [Zusammensezung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)
   Hier ist daruf zu achten, wer Stimmrecht hat.
   - Auslobungstext (s.u.)
-  - Protokoll des Nachbarschaftsworkshop (s.u.)
-####   
+  - Protokoll des Nachbarschaftsworkshop (s.u.) 
 - 22.09.2020: [Mail an Bezirksbeiräte](./2020/20200922_Schreiben_Bezirksbeiräte.PNG) bzgl der Unterlagen für Auslobung (s.u.)
-#### 
 - 21.09.2020: Unterlagen für Sitzung des Bezirksbeirats am 06.10.2020:
   - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf)
   - [Entwurf der Auslobung](./2020/20200921_BZB_Bergheim/00312921.pdf) für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
   - [Anlage 03 zur Auslobung](./2020/20200921_BZB_Bergheim/00312923.pdf)  
 enthält Zielguppen (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
-#### 
 - 18.09.2020: Abstimmung mit Felix Hörisch (Bewohner Gutenberghöfe, Bezirksbeirat Bergheim SPD)
 
 ### August 2020
@@ -38,24 +34,15 @@ Immerhin sind hier einige wichtige Sorgen der Nachbarschaft aufgegriffen, u.a.:
   - "... zu Punkt 3.2: Sorge, dass Gebäude zu hoch und/oder zu dicht an der im Norden angrenzendenBebauung geplant (Gutenberghöfe) und dadurch die 
 Bestandsgebäude verschattetwerden; z.B. in der Auslobung Höhenstaffelung der Gebäudehöhen zum Bestand hinvorsehen (zum Quartiersrand niedrigere Gebäudehöhen)"
   - "... zu Punkt 3.3: In Auslobung eine Konkretisierung der Gebäudehöhen vornehmen und dabei auf dieangrenzende Quartiere / Umgebung Bezug nehmen; auch mit Blick auf die geforderte„angemessene urbane Dichte“ und „geeignete Höhenentwicklung“)"
-  
-#### 
-
 - 26.08.2020: Schreiben mit Forderungen zur [Bebauung Druckmaschinen Stadtwerke Areal](./2020/20200823_HDM_SW_Gelände.pdf) an die Mitglieder des Bauausschuss im Gemeinderat:
   - Bernd Zieger (Die Linke)
   - Soeren Michelsburg (SPD)
   - Judith Marggraf (GAL)
   - Dr. Arnulf Kurt Weiler-Lorentz (Bunte Linke)  
   - Nora Schönberger (Grüne, Bezirksbeirat Bergheim) zur parteiinternen Weitergabe an Verterter im Bauausschuss
-
-#### 
-
 - 17.08.2020: Treffen zur Auswertung der Veranstaltung zur Nachbarschaftsbeteiligung mit 
   - Wolfgang Serr (Bewohner Gutenberghöfe, Mitarbeiter des Baurechtsamt)
   - Nora Schönberger (Grüne, Bezirksbeirat Bergheim)
-  
-#### 
-
 - 13.08.2020: Nachbarschaftsworkshop online  ([Protokoll vom 27.08.2020](./2020/20200827_Protokoll_Digitale_Bürgerbeteiligung.pdf))
   - [Präsentation Auslobung](./2020/20200813_präsentation_auslobung_bürgerbeteiligung.pdf) 
   - Ankündigung kurz vor Ferienbeginn -> Termin mitten in den Ferien (wer glaubt an Zufälle?) -> ist eine Beteiligung der Nachbarn unerwünscht?
