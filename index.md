@@ -9,22 +9,26 @@ der Stadtwerke Heidelberg.
 - 06.10.2020: Vorstellung des Projekts im Bezirksbeirat Bergheim 
 
 ### September 2020
-- 25.09.2020: Terminplanung des Preisgerichts für u.g. Ideenwettbewerb
+- 25.09.2020: Epple gibt Terminplanung des Preisgerichts für u.g. Ideenwettbewerb bekannt
   - Preisrichter-Vorbesprechung am 19.10.2020 von 10 Uhr bis ca. 12 Uhr
   - Kolloquium am 07.12.2020 von 14 Uhr bis ca. 17 Uhr
   - Preisgerichts-Sitzung am 20.04.2021 ganztags
+  
 - 23.09.2020: Preisgerichtsunterlagen werden verteilt
   - [Zusammensezung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)
   Hier ist daruf zu achten, wer Stimmrecht hat.
   - Auslobungstext (s.u.)
   - Protokoll des Nachbarschaftsworkshop (s.u.) 
+  
 - 22.09.2020: [Mail an Bezirksbeiräte](./2020/20200922_Schreiben_Bezirksbeiräte.PNG) bzgl der Unterlagen für Auslobung (s.u.)
+
 - 21.09.2020: Unterlagen für Sitzung des Bezirksbeirats am 06.10.2020:
   - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf)
   - [Entwurf der Auslobung](./2020/20200921_BZB_Bergheim/00312921.pdf) für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
   - [Anlage 03 zur Auslobung](./2020/20200921_BZB_Bergheim/00312923.pdf)  
 enthält Zielguppen (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
+
 - 18.09.2020: Abstimmung mit Felix Hörisch (Bewohner Gutenberghöfe, Bezirksbeirat Bergheim SPD)
 
 ### August 2020
