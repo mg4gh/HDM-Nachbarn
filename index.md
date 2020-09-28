@@ -1,7 +1,6 @@
-# Nachbarn des HDM Gelände
+In meiner Rolle als Nachbarschaftsvertreter möchte ich - Martin Gröger - hiermit alle Informationen zur Bebauung des Nachbargeländes
+transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. 
 
-Auf dieser Seite finden Sie Informationen zur Bebauung des Geländes des ehemaligen Hauptverwaltung der Heidelberger Druckmaschinen und 
-der Stadtwerke Heidelberg.
 
 ## 2020
 
@@ -15,7 +14,7 @@ der Stadtwerke Heidelberg.
   - Preisgerichts-Sitzung am 20.04.2021 ganztags
   
 - 23.09.2020: Preisgerichtsunterlagen werden verteilt
-  - [Zusammensezung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)
+  - [Zusammensetzung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)
   Hier ist daruf zu achten, wer Stimmrecht hat.
   - Auslobungstext (s.u.)
   - Protokoll des Nachbarschaftsworkshop (s.u.) 
@@ -42,7 +41,7 @@ Bestandsgebäude verschattetwerden; z.B. in der Auslobung Höhenstaffelung der G
   - Soeren Michelsburg (SPD)
   - Judith Marggraf (GAL)
   - Dr. Arnulf Kurt Weiler-Lorentz (Bunte Linke)  
-  - Nora Schönberger (Grüne, Bezirksbeirat Bergheim) zur parteiinternen Weitergabe an Verterter im Bauausschuss
+  - Nora Schönberger (Grüne, Bezirksbeirat Bergheim) zur parteiinternen Weitergabe an Vertreter im Bauausschuss
 - 17.08.2020: Treffen zur Auswertung der Veranstaltung zur Nachbarschaftsbeteiligung mit 
   - Wolfgang Serr (Bewohner Gutenberghöfe, Mitarbeiter des Baurechtsamt)
   - Nora Schönberger (Grüne, Bezirksbeirat Bergheim)
