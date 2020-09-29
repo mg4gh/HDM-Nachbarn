@@ -14,7 +14,8 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen.
   - Preisgerichts-Sitzung am 20.04.2021 ganztags
   
 - 23.09.2020: Preisgerichtsunterlagen werden verteilt
-  - [Zusammensetzung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)Hier ist daruf zu achten, wer Stimmrecht hat.
+  - [Zusammensetzung des Preisgerichts](./2020/20200923_Zusammensetzung_Preisgericht.PNG)  
+  Hier ist daruf zu achten, wer Stimmrecht hat.
   - Auslobungstext (s.u.)
   - Protokoll des Nachbarschaftsworkshop (s.u.) 
   
