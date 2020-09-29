@@ -21,7 +21,7 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen.
   
 - 22.09.2020: [Mail an Bezirksbeiräte](./2020/20200922_Schreiben_Bezirksbeiräte.PNG) bzgl der Unterlagen für Auslobung (s.u.)
 - 21.09.2020: Unterlagen für [Sitzung des Bezirksbeirats](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238) am 06.10.2020: 
-  - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf) 
+  - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf)  
   Bezirksbeirat soll Auslobungstext zustimmen
   - [Entwurf der Auslobung](./2020/20200921_BZB_Bergheim/00312921.pdf) für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
