@@ -23,8 +23,8 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen.
   - [Beschlussvorlage zur Zustimmung zum Auslobungstext]<!--(./2020/20200921_BZB_Bergheim/00312836.pdf)-->
   - [Entwurf der Auslobung]<!--(./2020/20200921_BZB_Bergheim/00312921.pdf)--> für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
-  - [Anlage 03 zur Auslobung]<!--(./2020/20200921_BZB_Bergheim/00312923.pdf)-->
-enthält Zielguppen (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
+  - [Anlage 03 zur Auslobung]<!--(./2020/20200921_BZB_Bergheim/00312923.pdf)-->  
+enthält Zielguppen  (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
 
 - 18.09.2020: Abstimmung mit Felix Hörisch (Bewohner Gutenberghöfe, Bezirksbeirat Bergheim SPD)
 
