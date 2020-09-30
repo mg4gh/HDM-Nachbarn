@@ -1,5 +1,6 @@
-In meiner Rolle als Nachbarschaftsvertreter möchte ich - [Martin Gröger](mailto:mgroeger1@web.de) - hiermit meine Informationen zur Bebauung des Nachbargeländes
-transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. 
+In meiner Rolle als Nachbarschaftsvertreter möchte ich - Martin Gröger, erreichbar via <hdm_nachbar_info@web.de> - hiermit meine Informationen zur Bebauung des Nachbargeländes
+transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. Wer regelmäßig über Neues informiert werden möchte, sendet bitte eine Mail mit dem Betreff [SUBSCRIBE] 
+on o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 
 ## 2020
@@ -23,7 +24,7 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen.
 - 21.09.2020: Unterlagen für [Sitzung des Bezirksbeirats](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238) am 06.10.2020: 
   - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf)  
   Bezirksbeirat soll Auslobungstext zustimmen
-  - [Entwurf der Auslobung](./2020/20200921_BZB_Bergheim/00312921.pdf) für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
+  - [Entwurf der Auslobung](https://ww1.heidelberg.de/buergerinfo/getfile.asp?id=312921&type=do&)<!-- (./2020/20200921_BZB_Bergheim/00312921.pdf) --> für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
   - [Anlage 03 zur Auslobung](./2020/20200921_BZB_Bergheim/00312923.pdf)  
 enthält Zielguppen  (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
