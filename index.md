@@ -1,6 +1,6 @@
 In meiner Rolle als Nachbarschaftsvertreter möchte ich - Martin Gröger, erreichbar via <hdm_nachbar_info@web.de> - hiermit meine Informationen zur Bebauung des Nachbargeländes
 transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. Wer regelmäßig über Neues informiert werden möchte, sendet bitte eine Mail mit dem Betreff [SUBSCRIBE] 
-on o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
+an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 
 ## 2020
