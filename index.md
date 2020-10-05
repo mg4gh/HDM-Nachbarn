@@ -6,7 +6,10 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2020
 
 ### Oktober 2020
-- 06.10.2020: Vorstellung des Projekts im Bezirksbeirat Bergheim 
+- 06.10.2020: 18:00 Uhr Vorstellung des [Projekts im Bezirksbeirat Bergheim](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238)
+- 05.10.2020: Frau Herb (Epple GmbH) hat mich für morgen (15 Uhr) zu einem persönlichen Austausch eingeladen - hier sollen sowohl 
+inhaltliche als auch verfahrenstechnische Fragen diskutiert werden. Die Kernthemen werde ich dem Schreiben mit Forderungen 
+zur [Bebauung Druckmaschinen Stadtwerke Areal](./2020/20200823_HDM_SW_Gelände.pdf) vom 26.08.2020 entnehmen.
 
 ### September 2020
 - 25.09.2020: Epple gibt Terminplanung des Preisgerichts für u.g. Ideenwettbewerb bekannt
