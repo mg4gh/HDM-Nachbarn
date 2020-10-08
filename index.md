@@ -31,7 +31,7 @@ zur [Bebauung Druckmaschinen Stadtwerke Areal](./2020/20200823_HDM_SW_Gelände.p
 - 21.09.2020: Unterlagen für [Sitzung des Bezirksbeirats](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238) am 06.10.2020: 
   - [Beschlussvorlage zur Zustimmung zum Auslobungstext](./2020/20200921_BZB_Bergheim/00312836.pdf)  
   Bezirksbeirat soll Auslobungstext zustimmen
-  - [Entwurf der Auslobung](https://ww1.heidelberg.de/buergerinfo/getfile.asp?id=312921&type=do&)<!-- (./2020/20200921_BZB_Bergheim/00312921.pdf) --> für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
+  - [Entwurf der Auslobung](./2020/20200921_BZB_Bergheim/01_NEU_Entwurf_des_Auslobungstextes.pdf) für nicht offenene Ideenwettbewerb (Stand 11.09.2020)  
 Die relevanten Aussagen der Nachbarschaftsbeteiligung tauchen hier nicht mehr auf!
   - [Anlage 03 zur Auslobung](./2020/20200921_BZB_Bergheim/00312923.pdf)  
 enthält Zielguppen  (Achtung: mittlere oder größere Familien sind nicht dabei!!!)
