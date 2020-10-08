@@ -6,7 +6,11 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2020
 
 ### Oktober 2020
-- 06.10.2020: 18:00 Uhr Vorstellung des [Projekts im Bezirksbeirat Bergheim](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238)
+- 08.10.2020: Hier das [abgestimmte Protokoll](./2020/20201006_Meeting_Epple/20201006_Minutes_Epple_Gutenberghöfe_abgestimmt.pdf) des Meetings mit der Epple GmbH (Herr Epple, Herr Rabl, Frau Herb).  Wie im 
+Protokoll beschrieben wurden von mir zwei [Ergänzungsvorschläge](./2020/20201006_Meeting_Epple/20201007_Vorschlag_Auslobungstext_original.pdf) unterbreitet. Die 
+[akzeptierte Form dieser Vorschläge](./2020/20201006_Meeting_Epple/20201007_Vorschlag_Groeger_Auslobungstext_akzeptiert.pdf) ist leider etwas abgeschwächt, stellt aber m.E. immer noch eine wesentliche Verbesserung dar.
+- 06.10.2020: 18:00 Uhr Vorstellung des [Projekts im Bezirksbeirat Bergheim](https://ww1.heidelberg.de/buergerinfo/to0040.asp?__ksinr=6238)  
+Das Protokoll der Sizung wird lt Auskunft des Sitzungsdienstes (Frau Dressler) nicht publiziert, lediglich die Beschlüsse werden in den nächsten Tagen veröffentlicht.
 - 05.10.2020: Frau Herb (Epple GmbH) hat mich für morgen (15 Uhr) zu einem persönlichen Austausch eingeladen - hier sollen sowohl 
 inhaltliche als auch verfahrenstechnische Fragen diskutiert werden. Die Kernthemen werde ich dem Schreiben mit Forderungen 
 zur [Bebauung Druckmaschinen Stadtwerke Areal](./2020/20200823_HDM_SW_Gelände.pdf) vom 26.08.2020 entnehmen.
