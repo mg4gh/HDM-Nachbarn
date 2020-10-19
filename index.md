@@ -6,6 +6,11 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2020
 
 ### Oktober 2020
+- 19.10.2020: Preisrichter-Vorbesprechung (teilw. online, teilw vor Ort) ca 25 Teilnehmer.  
+Im Rahmen der Besprechung wurde der Text der Auslobung Seite für Seite durchgesprochen. Die mit Frau Herb abgesprochenen Änderungsanträge wurden teilweise berücksichtigt.
+Die Formulierung zur Rücksichtnahme u.a. auf die Gutenberghöfe wird aufgenommen. Die Formulierung zur TG Zufahrt auf dem HDM Gelände allerdings nicht - hier wurde betont, dass an anderer 
+Stelle bereits eine Verbesserung der TG-Zufahrten angesprochen wurde. Darüber hinaus soll ein Hinweis und eine Anlage ergänzt werden, die das Thema Schulwege zur Wilckensschule umfasst.
+Da viele Änderungswünsche zunächst "nur" stichpunktartig erfasst wurden, bleibt es abzuwarten, wie diese dann textuell ausformuliert vorliegen werden.
 - 08.10.2020: Hier das [abgestimmte Protokoll](./2020/20201006_Meeting_Epple/20201006_Minutes_Epple_Gutenberghöfe_abgestimmt.pdf) des Meetings vom 06.10.2020 mit der Epple GmbH (Herr Epple, Herr Rabl, Frau Herb).  Wie im 
 Protokoll beschrieben wurden von mir zwei [Ergänzungsvorschläge](./2020/20201006_Meeting_Epple/20201007_Vorschlag_Auslobungstext_original.pdf) unterbreitet. Die 
 [akzeptierte Form dieser Vorschläge](./2020/20201006_Meeting_Epple/20201007_Vorschlag_Groeger_Auslobungstext_akzeptiert.pdf) ist leider etwas abgeschwächt, stellt aber m.E. immer noch eine wesentliche Verbesserung dar.
