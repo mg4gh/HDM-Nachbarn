@@ -6,7 +6,7 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2020
 
 ### Oktober 2020
-- 19.10.2020: Preisrichter-Vorbesprechung (teilw. online, teilw vor Ort) ca 25 Teilnehmer.  
+- 19.10.2020: Zeitraum 10:00 - 13:15 Uhr, Preisrichter-Vorbesprechung (teilw. online, teilw vor Ort) ca 25 Teilnehmer.  
 Im Rahmen der Besprechung wurde der Text der Auslobung Seite für Seite durchgesprochen. Die mit Frau Herb abgesprochenen Änderungsanträge wurden teilweise berücksichtigt.
 Die Formulierung zur Rücksichtnahme u.a. auf die Gutenberghöfe wird aufgenommen. Die Formulierung zur TG Zufahrt auf dem HDM Gelände allerdings nicht - hier wurde betont, dass an anderer 
 Stelle bereits eine Verbesserung der TG-Zufahrten angesprochen wurde. Darüber hinaus soll ein Hinweis und eine Anlage ergänzt werden, die das Thema Schulwege zur Wilckensschule umfasst.
