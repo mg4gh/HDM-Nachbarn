@@ -5,6 +5,20 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ## 2020
 
+### November 2020
+- 11.11.2020: [Überarbeitete Fassung des Auslogungstexts](./20201111_Auslobung.pdf) wurde durch Frau Herb (Epple GmbH) zur Verfügung gestellt. 
+Dies ist eine Abrbeitsfassung, in der die Änderungen grau markiert sind. Als Nachbarschaftsvertreter der Gutenberghöfe sehe ich ein paar wichtige Ergänzungen, z.B.: 
+  -  Seite 30: "Im  Wettbewerb  wird  von  den  Teilnehmern  erwartet,  sich  ein  eigenes  Bild 
+zu  machen  und  die  aus  ihrer  Sicht  angemessene  Lösung  insbesondere 
+hinsichtlich  der  Höhenentwicklung  vorzuschlagen.  **Ein  rücksichtsvoller 
+Umgang mit der Bestandsbebauung in der direkten Nachbarschaft (bspw. 
+im Bereich der Kirchstraße) wird vorausgesetzt.** Auf Hochhäuser im Sinne 
+der Bauordnung soll verzichtet werden."
+  - Seite 31: Hier ist jetzt auch der Bebauungsplan der Gutenberghöfe enthalten, so dass die Telnehmer einen Eindruck der Bauhöhen der Gutenberghöfe bekommen können.
+  - Seite 39: "Auch  Vorschläge  zur  Umgestaltung  der  Kreuzung 
+Kirchstraße / Alte Eppelheimer Straße / Zufahrt Tiegarage zur Erhöhung der 
+Verkehrssicherheit sind zulässig." Hier hätte ich gerne eine Formulierung erwirkt, die alternative TG-Zufahrten, insbesondere von der Kurfürstenanlage vorschlägt. Leider konnte ich das nicht durchsetzen.
+
 ### Oktober 2020
 - 19.10.2020: Zeitraum 10:00 - 13:15 Uhr, Preisrichter-Vorbesprechung (teilw. online, teilw vor Ort) ca 25 Teilnehmer.  
 Im Rahmen der Besprechung wurde der Text der Auslobung Seite für Seite durchgesprochen. Die mit Frau Herb abgesprochenen Änderungsanträge wurden teilweise berücksichtigt.
