@@ -6,7 +6,7 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2020
 
 ### November 2020
-- 11.11.2020: Eine [überarbeitete Fassung des Auslobungstexts](./20201111_Auslobung.pdf) wurde durch Frau Herb (Epple GmbH) zur Verfügung gestellt. 
+- 11.11.2020: Eine [überarbeitete Fassung des Auslobungstexts](./2020/20201111_Auslobung.pdf) wurde durch Frau Herb (Epple GmbH) zur Verfügung gestellt. 
 Dies ist immer noch eine Arbeitsfassung; Änderungen sind grau markiert. Als Nachbarschaftsvertreter der Gutenberghöfe sehe ich ein paar wichtige Ergänzungen, z.B.: 
   -  Seite 30: "Im  Wettbewerb  wird  von  den  Teilnehmern  erwartet,  sich  ein  eigenes  Bild 
 zu  machen  und  die  aus  ihrer  Sicht  angemessene  Lösung  insbesondere 
