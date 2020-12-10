@@ -5,6 +5,13 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ## 2020
 
+### Dezember 2020
+
+- 07.12.2020: Zeitraum 14:00 - 16:30 Uhr, Rückfrage-Kolloquium zur Auslobung  
+  Die meisten Fragen bezogen sich auf die TG Konstruktionen sowie den Leistungsumfang des Wettbewerbs. 
+- 07.12.2020: In Vorbereitung auf das Rückfrage-Kolloquium wurden der [finale Stand der Auslobung](https://www.citiplan.de/daten/HDM-SWHD-Areale_Anlagen.zip)
+durch die citiplan GmbH bereitgestellt. In Bezug auf das Nachbarschaftsverhältnis zu den Gutenberghöfen sind mir keine relevanten Unterschiede aufgefallen.
+
 ### November 2020
 - 11.11.2020: Eine [überarbeitete Fassung des Auslobungstexts](./2020/20201111_Auslobung.pdf) wurde durch Frau Herb (Epple GmbH) zur Verfügung gestellt. 
 Dies ist immer noch eine Arbeitsfassung; Änderungen sind grau markiert. Als Nachbarschaftsvertreter der Gutenberghöfe sehe ich ein paar wichtige Ergänzungen, z.B.: 
