@@ -7,6 +7,9 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ### Dezember 2020
 
+- 21.12.2020: Wettbewerbsteilnehmer und Protokoll des Rückfrage-Kolloquium  
+  Hier ist die aktualisierte Liste der [Wettbewerbsteilnehmer](./2020/20201221_Teilnehmer.pdf) zu finden. Außerdem ist 
+  das [Protokoll des Rückfrage-Kolloquium](https://www.citiplan.de/daten/HDM-SWHD-Areale_Anlagen_Rueckfragenkolloquium.zip) jetzt verfügbar.
 - 07.12.2020: Zeitraum 14:00 - 16:30 Uhr, Rückfrage-Kolloquium zur Auslobung  
   Die meisten Fragen bezogen sich auf die TG Konstruktionen sowie den Leistungsumfang des Wettbewerbs. 
 - 07.12.2020: In Vorbereitung auf das Rückfrage-Kolloquium wurden der [finale Stand der Auslobung](https://www.citiplan.de/daten/HDM-SWHD-Areale_Anlagen.zip)
