@@ -3,10 +3,15 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. Wer re
 an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 
+## 2021
+
+### Januar 2021
+- 22.01.2021: Frau Herb (Epple GmbH) informiert über die Verschiebung der Preisgerichts-Sitzung. Der ursprüngliche Termin (20.04.2021) wird verschoben auf 
+Dienstag, den 06.07.2021.  
+
 ## 2020
 
 ### Dezember 2020
-
 - 21.12.2020: Wettbewerbsteilnehmer und Protokoll des Rückfrage-Kolloquium  
   Hier ist die aktualisierte Liste der [Wettbewerbsteilnehmer](./2020/20201221_Teilnehmer.pdf) zu finden. Außerdem ist 
   das [Protokoll des Rückfrage-Kolloquium](https://www.citiplan.de/daten/HDM-SWHD-Areale_Anlagen_Rueckfragenkolloquium.zip) jetzt verfügbar.
