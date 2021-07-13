@@ -5,6 +5,21 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ## 2021
 
+### Juli 2021
+- 06.07.2021: Die angekündigte Preisgerichts-Sitzung hat am 06.07.2021 stattgefunden. Dort wurden insgesamt 17 Entwürfe vorgestellt. Die stimmberechtigten Preisrichter wurde vor Ort eingeladen. 
+Nicht stimmberechtigte Teilnehmer konnten der Veranstaltung lediglich online beiwohnen. In insgesamt drei Abstimmungsrunden wurde eine engere Auswahl bestehend aus drei Entwürfen getroffen.
+Leider liegt mir (trotz mehrfacher Aufforderung) bisher kein Protokoll bzw sonstige Unterlagen vor, die ich hier zur Information weitergeben könnte.  
+Trotz der Aufforderung im Auslobungstext **Ein  rücksichtsvoller 
+Umgang mit der Bestandsbebauung in der direkten Nachbarschaft (bspw. 
+im Bereich der Kirchstraße) wird vorausgesetzt** sind die meistesten Entwürfe dieser Forderung nur teilweise nachgekommen, manche auch gar nicht. Die drei zur engeren Auswahl stehenden Entwürfe
+enthalten in ihrem derzeitigen Stand teils 5-stöckige, 6-stöckige und teils 7-stöckige Gebäude, die unmittelberen Einfluss auf die Belichtung der Gutenberghöfe haben werden. Diese Entwürfe sollen in einem 
+weiteren Schritt noch optimiert werden, bevor eine entgültige Entscheidung fallen soll.  
+Zumindest scheinen noch rücksichtslosere Entwürfe mit 8 oder mehr Stockwerken, die teilweise ganz eng an die Gutenberghöfe heranreichen sollten, erstmal vom Tisch zu sein. 
+Trotzdem ist das Ergebnis aus meiner Sicht nicht zufrieden stellend und es wird darauf zu achten sein, dass beim optimieren nicht wieder zusätzliche Bauhöhen entstehen. 
+
+
+
+
 ### Januar 2021
 - 22.01.2021: Frau Herb (Epple GmbH) informiert über die Verschiebung der Preisgerichts-Sitzung. Der ursprüngliche Termin (20.04.2021) wird verschoben auf 
 Dienstag, den 06.07.2021.  
