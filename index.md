@@ -6,7 +6,8 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2021
 
 ### Juli 2021
-- 14.07.2021: Weítere Informationen zur Preisgerichtssitzung - Aufgrung einer Erkrankung von Frau Herb (Epple GmbH) gibt es noch kein Protokoll der Veranstaltung. 
+- 14.07.2021: Alle Entwürfe des Wettbewerbs sind jetzt [online](https://www.quartier-bergheim.de/) zu finden.
+- 14.07.2021: Weitere Informationen zur Preisgerichtssitzung - Aufgrung einer Erkrankung von Frau Herb (Epple GmbH) gibt es noch kein Protokoll der Veranstaltung. 
 Herr Rabl (ebenfalls Epple GmbH) hat mir nachstehende Informationen zur Weitergabe zur Verfügung gestellt:
   - [Stellungnahme Riehle (Vorsitzender des Preisgerichts)](./2021/PM210707_HDM_Stellungnahme_Riehle.pdf)
   - [Jury-Erbenis](./2021/PM210707_HDM-Jury-Ergebnis.pdf)
