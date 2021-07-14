@@ -6,6 +6,19 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2021
 
 ### Juli 2021
+- 14.07.2021: Weítere Informationen zur Preisgerichtssitzung - Aufgrung einer Erkrankung von Frau Herb (Epple GmbH) gibt es noch kein Protokoll der Veranstaltung. 
+Herr Rabl (ebenfalls Epple GmbH) hat mir nachstehende Informationen zur Weitergabe zur Verfügung gestellt:
+  - [Stellungnahme Riehle (Vorsitzender des Preisgerichts)](./2021/PM210707_HDM_Stellungnahme_Riehle.pdf)
+  - [Jury-Erbenis](./2021/PM210707_HDM-Jury-Ergebnis.pdf)
+  - [Jury-Stimmen](./2021/PM210707_HDM_Stimmen.pdf)
+  - [Modell-Fotos](./2021/PM210707_HDM_Fotoblatt.pdf) (nachstehend einige Erklärungen zu diesen Fotos)  
+  Der oberste Entwurf hat in der Kurfürstenanlage ein Gebäude mit 7 Etagen, in der Kirchstr. im nördlichen Bereich 6 und im südlichen Bereich etwas abgesetzt ebenfalls 7 Etagen.
+  Der zweite(mittlere) Entwurf hat in der Kurfürstenanlage ebenfalls ein Gebäude mit 7 Etagen, in der Kirchstr. gegenüber den Gutenberghöfen 5 Etagen, direkt an der Alten Eppleheimer 6 Etagen.
+  Der dritte Entwurf (unten) hat in der Kurfürstenanlage ein Gebäude mit 6 Etagen, in der Kirchstr. im wesentlichen Bereich 6 und im südlichen Bereich etwas abgesetzt ebenfalls 7 Etagen.  
+  Der mit einer Annerkennung versehene Entwurf (insbesondere wiel er im inneren des zu bauenden Quertiers eine große Grünfläche bietet) hätte in der Kirchstr 8 Etagen in voller Breite von der Alten Eppleheimer
+  bis zur Kurfürstenanlage bedeutet. Im südlichen Bereich enthält dieser Entwurf ebenfalls 7 Etagen, allerdings noch deutlich dichter an die Gutenberghöfe heranreichend. Der erste Bürgermeister (Herr Odszuck, SPD)
+  bescheinigte diesem Entwurf ein "wenig sensiblen Umgang mit dem Bestand", während sich andere Teilnehmer (z.B. Herr Michelsburg, ebenfalls SPD) für diesen Entwurf stark gemacht haben.
+  
 - 06.07.2021: Die angekündigte Preisgerichts-Sitzung hat am 06.07.2021 stattgefunden. Dort wurden insgesamt 17 Entwürfe vorgestellt. Die stimmberechtigten Preisrichter wurde vor Ort eingeladen. 
 Nicht stimmberechtigte Teilnehmer konnten der Veranstaltung lediglich online beiwohnen. In insgesamt drei Abstimmungsrunden wurde eine engere Auswahl bestehend aus drei Entwürfen getroffen.
 Leider liegt mir (trotz mehrfacher Aufforderung) bisher kein Protokoll bzw sonstige Unterlagen vor, die ich hier zur Information weitergeben könnte.  
