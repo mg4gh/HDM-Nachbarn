@@ -6,6 +6,7 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ## 2021
 
 ### Juli 2021
+- 16.07.2021: Nun ist auch das [Protokoll](./2021/Protokoll_Heidelberg_HDM-_SWHD_Areale.pdf) der Preisgerichtssitzung verfügbar.
 - 14.07.2021: Alle Entwürfe des Wettbewerbs sind jetzt [online](https://www.quartier-bergheim.de/) zu finden.
 - 14.07.2021: Weitere Informationen zur Preisgerichtssitzung - Aufgrung einer Erkrankung von Frau Herb (Epple GmbH) gibt es noch kein Protokoll der Veranstaltung. 
 Herr Rabl (ebenfalls Epple GmbH) hat mir nachstehende Informationen zur Weitergabe zur Verfügung gestellt:
