@@ -17,7 +17,7 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 - 14.07.2021: Weitere Informationen zur Preisgerichtssitzung - Aufgrung einer Erkrankung von Frau Herb (Epple GmbH) gibt es noch kein Protokoll der Veranstaltung. 
 Herr Rabl (ebenfalls Epple GmbH) hat mir nachstehende Informationen zur Weitergabe zur Verfügung gestellt:
   - [Stellungnahme Riehle (Vorsitzender des Preisgerichts)](./2021/PM210707_HDM_Stellungnahme_Riehle.pdf)
-  - [Jury-Erbenis](./2021/PM210707_HDM-Jury-Ergebnis.pdf)
+  - [Jury-Ergebnis](./2021/PM210707_HDM-Jury-Ergebnis.pdf)
   - [Jury-Stimmen](./2021/PM210707_HDM_Stimmen.pdf)
   - [Modell-Fotos](./2021/PM210707_HDM_Fotoblatt.pdf) (nachstehend einige Erklärungen zu diesen Fotos)  
   Der oberste Entwurf hat in der Kurfürstenanlage ein Gebäude mit 7 Etagen, in der Kirchstr. im nördlichen Bereich 6 und im südlichen Bereich etwas abgesetzt ebenfalls 7 Etagen.
