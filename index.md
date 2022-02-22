@@ -3,6 +3,12 @@ transparent für alle Bewohner der Gutenberghöfe zur Verfügung stellen. Wer re
 an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 
+## 2022
+
+### Januar 2022
+- 20.01.2022: Gemäß Aussage von Herrn Rabl (Epple GmbH) dauert die Überarbeitung der Entwürfe an:  
+  "Entgegen meiner Erwartung hat sich die Nachbearbeitung der Büros ... über Herbst und Winter sowie über Weihnachten und die Feiertage hingezogen und ist immer noch nicht abgeschlossen."
+
 ## 2021
 
 ### Juli 2021
