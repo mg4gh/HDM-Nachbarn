@@ -5,6 +5,14 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ## 2022
 
+### Juni 2022
+- Am 02.06.2022 hat der Gemeinderat einen neuen Bebauungsplan [beschlossen](https://www.heidelberg.de/7071_34581_34869_284696_1219308_2106959_2165752_2165587_2165329.html)  
+Wenn ich dieses richtig verstehe, dann ist eigentlich "nur" beschlossen worden, dass eine Entwicklung des Geländes stattfinden soll.
+Weitere Informationen sind [hier](https://www.gemeinderat.heidelberg.de/vo0050.asp?__kvonr=32675) zu finden. Insbesondere ist ein 
+[Entwurf Freiflächenplan Stand 23.03.2022](./2022/02_Entwurf_Freiflaechenplan_Stand_23_03_2022.pdf) hier zu finden.
+Gemäß Information von Herrn Rabl (Epple GmbH) vom 28.06.2022 entspricht dies dem aktuellen Diskussionsstand. 
+
+
 ### Januar 2022
 - 20.01.2022: Gemäß Aussage von Herrn Rabl (Epple GmbH) dauert die Überarbeitung der Entwürfe an:  
   "Entgegen meiner Erwartung hat sich die Nachbearbeitung der Büros ... über Herbst und Winter sowie über Weihnachten und die Feiertage hingezogen und ist immer noch nicht abgeschlossen."
