@@ -5,6 +5,12 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 
 ## 2022
 
+### November 2022
+- Am 15. November findet eine Veranstaltung zur Öffentlichkeitsbeteiligung satt.  
+  Gemaß disem [Link](https://www.heidelberg.de/hd/HD/Leben/bplan+bergheim+_+kurfuersten-anlage+nord_+westlicher+teil.html) findet am 15. November um 18 Uhr eine 
+  digitale Infomationsverstaltung zu dem Gelände statt. Der Einwahllink für die Veranstaltung selbst ist folgender: https://stdhd.de/s/teamsmeet 
+  Eine Anmeldung ist nicht erforderlich.
+
 ### Juni 2022
 - Am 02.06.2022 hat der Gemeinderat einen neuen Bebauungsplan [beschlossen](https://www.heidelberg.de/7071_34581_34869_284696_1219308_2106959_2165752_2165587_2165329.html).  
 Wenn ich dieses richtig verstehe, dann ist eigentlich "nur" beschlossen worden, dass eine Entwicklung des Geländes stattfinden soll.
