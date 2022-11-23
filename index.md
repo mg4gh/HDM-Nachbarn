@@ -8,7 +8,7 @@ an o.g. Mailadresse (kann analog mit Betreff [UNSUBSCRIBE] widerrrufen werden).
 ### November 2022
 - Reaktionen auf die Infomationsverstaltung vom 15.11.2022  
   - Ich habe am 17.11.2022 hiezu folgende [Mail](./2022/BebauungsplanBergheim.pdf) mit meiner Stellungnahme an die Stadt geschickt.
-  - Auf Initiative von Alex Güntert, Herrn Joachim Engesser und Frau Ertelt-Kircher ist zusätzlich folgende [Stellungnahme mit Unterschriftenliste](./2022/Unterschriftenaktion_BV_HDM.pdf) entstanden.
+  - Auf Initiative von Herrn Güntert, Herrn Engesser und Frau Ertelt-Kircher ist zusätzlich folgende [Stellungnahme mit Unterschriftenliste](./2022/Unterschriftenaktion_BV_HDM.pdf) entstanden.
 - Am 15. November findet eine Veranstaltung zur Öffentlichkeitsbeteiligung satt.  
   Gemaß disem [Link](https://www.heidelberg.de/hd/HD/Leben/bplan+bergheim+_+kurfuersten-anlage+nord_+westlicher+teil.html) findet am 15. November um 18 Uhr eine 
   digitale Infomationsverstaltung zu dem Gelände statt. Der Einwahllink für die Veranstaltung selbst ist folgender: https://stdhd.de/s/teamsmeet 
